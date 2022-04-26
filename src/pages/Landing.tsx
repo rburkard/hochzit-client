@@ -36,7 +36,7 @@ export const Landing = () => {
   if (wondering === true) {
     return (
       <Wrapper>
-        <h1>Stress nöd ok!?</h1>
+        <h1>Stress nöd thx</h1>
       </Wrapper>
     )
   }

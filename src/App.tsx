@@ -41,7 +41,7 @@ export const GlobalStyle = createGlobalStyle`
 
   button {
     font-size: 32px;
-    background-color: #ca28c7;
+    background-color: #ca60c8;
     border-radius: 10px;
 
   }
